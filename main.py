@@ -194,12 +194,15 @@ def opponent():
         print("Противник вже стріляв!")
         move()
 #printField()
-move()
-
-
-
-
-
-        
 
 print ("привіт від Лілеї")
+move ()
+
+
+
+
+
+
+
+print("Hello World")
+
