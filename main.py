@@ -307,17 +307,19 @@ try:
 except:
     print("error")
 
-sio.wait()
+
 # sio.sleep(5000)
 # sio.sleep(100)
 #printField()
-#move()
+
+print ("привіт від Лілеї")
 
 
 
 
 
 
-        
 
+print("Hello World")
 
+sio.wait()
