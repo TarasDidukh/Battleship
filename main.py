@@ -312,7 +312,7 @@ except:
 # sio.sleep(100)
 #printField()
 
-print ("привіт від Лілеї")
+print ("привіт від павлика")
 
 
 
